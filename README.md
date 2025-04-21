@@ -1,8 +1,11 @@
 # Deep_Learning.Assignment
 
 Author: Rutuja Nimje
+
 URN: 2022-B-05092004A
+
 Program: B.Tech in Artificial Intelligence & Data Science
+
 
 Welcome to my Deep Learning assignment repository. This repository contains implementation and documentation of foundational deep learning concepts as part of my academic curriculum.
 
